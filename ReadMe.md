@@ -1,8 +1,8 @@
 # Practice Quiz
 ## Lesson-1
 
-1. What are the commands to create a folder "hello", enter the folder, create a file "hello.txt", then list the contents of the folder "hello"?
-2. What is the command to edit a file?
+1. What are the unix commands to create a folder "hello", enter the folder, create a file "hello.txt", then list the contents of the folder "hello"?
+2. What is the unix command to edit a file?
 3. What is the file extension for a bash script file? a c file?
 4. How do you compile a c file? What does compiling a c file mean?
 5. What is Github used for? What is version-control?
