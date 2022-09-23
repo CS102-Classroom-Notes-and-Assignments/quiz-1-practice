@@ -12,12 +12,14 @@
 
 1. What is the difference between an unsigned int and a signed int?
 2. How many bits are in a byte?
-3. Given the data types: char, int, short, long, float, double, long double.
+3. Write the number 19 in binary.
+4. Convert 010011 to decimal.
+5. Given the data types: char, int, short, long, float, double, long double.
   	- What data types can store a decimal number?
  	 - What data type is number 3.0f?
  	 - What data type is the number 2L?
-4. What does the % operator do? For example, what is the result of 5%2 ?
-6. What do the following characters mean?
+6. What does the % operator do? For example, what is the result of 5%2 ?
+7. What do the following characters mean?
 	  - '\t'
 	  - '\n'
 	  - '\?'
