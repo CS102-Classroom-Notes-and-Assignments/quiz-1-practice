@@ -17,11 +17,13 @@
  	 - What data type is number 3.0f?
  	 - What data type is the number 2L?
 4. What does the % operator do? For example, what is the result of 5%2 ?
-5. What do the following characters mean?
+6. What do the following characters mean?
 	  - '\t'
 	  - '\n'
 	  - '\?'
 	  - '\\'
+
+
 6. What is the output of the following program? How might you add precision to the output?
 ```c
 #include <stdio.h>
@@ -36,6 +38,8 @@ int main()
     return 0;
 }
 ```
+
+
  7. Refer to an ASCI chart to answer this question. How can you make the following program output an 'H'?
  ```c
  #include <stdio.h>
@@ -52,7 +56,6 @@ int main()
  ```c
  #include <stdio.h>
 #include <math.h>
-#### Casting example
 int main()
 {
     int i = 4;
@@ -88,12 +91,15 @@ int main()
  	   - 15 | 7
  	   - 12 >> 2
  	   - 11 ^ 7
-   2. Do the following math with the binary numbers and the decimal numbers:
+
+   2. Do the following math with the binary numbers and the decimal numbers. Show your work.
  	   - 10 + 5
- 	   - 10 - 5 (Hint:  take the two's complement of 5, and add 10 + (-5) to get the answer)
+ 	   - 10 - 5 (Hint: take the two's complement of 5, and add 10 + (-5) to get the answer)
  	   - 12 + 3
-	    - 12 - 3
-	    - 25 + 1
+	   - 12 - 3
+	   - 25 + 1
+
+
    3. What is the difference between a prefix and a postfix operator? What does the code below print out?
    ```c
    #include <stdio.h>
@@ -118,10 +124,11 @@ int main()
  	   - print out the numbers 1-10 each on a new line
 	    - for each letter of the alphabet print out an animal that starts with that letter
  	   - Add the numbers, subtract the numbers, divide the numbers based on whether a '+', '/', or '-' was entered into the program
+
+
   5. What does the following program do? What does EOF mean?
   ```c
   #include <stdio.h>
-/* copy input to output; 1st version */
 main()
 {
 	int c;
