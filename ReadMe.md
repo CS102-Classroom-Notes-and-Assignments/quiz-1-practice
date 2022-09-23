@@ -40,7 +40,7 @@ int main()
 ```
 
 
- 7. Refer to an ASCI chart to answer this question. How can you make the following program output an 'H'?
+ 7. Refer to an ASCII chart to answer this question. How can you make the following program output an 'H'?
  ```c
  #include <stdio.h>
 
