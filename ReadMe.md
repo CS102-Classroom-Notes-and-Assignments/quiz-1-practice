@@ -22,8 +22,6 @@
 7. What do the following characters mean?
 	  - '\t'
 	  - '\n'
-	  - '\?'
-	  - '\\'
 
 
 6. What is the output of the following program? How might you add precision to the output?
