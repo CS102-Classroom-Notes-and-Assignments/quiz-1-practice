@@ -82,7 +82,7 @@ int main()
   
   
   # Lesson-3
-  1. What is the output of the following operations? Write out the numbers in binary, and do the operations, then convert the final result back to decimal. Show your work.
+  1. What is the output of the following operations? Write out the numbers in binary, do the operations, then convert the final result back to decimal. Show your work.
   	  - 5 & 4
  	   - 5 | 4
  	   - 5 ^ 4 
