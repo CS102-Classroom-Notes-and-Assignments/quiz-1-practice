@@ -13,7 +13,7 @@
 1. What is the difference between an unsigned int and a signed int?
 2. How many bits are in a byte?
 3. Write the number 19 in binary.
-4. Convert 00010011 to decimal.
+4. Convert the binary number 00010011 in decimal.
 5. Given the data types: char, int, short, long, float, double, long double.
   	- What data types can store a decimal number?
  	 - What data type is number 3.0f?
