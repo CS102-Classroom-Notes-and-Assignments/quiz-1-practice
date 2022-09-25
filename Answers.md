@@ -127,15 +127,56 @@ int main()
   
   # Lesson-3
   1. What is the output of the following operations? Write out the numbers in binary, do the operations, then convert the final result back to decimal. Show your work.
-  	  - 5 & 4
+  	  - 5 & 4 
+ ```
+ 0101
+ 0100
+ -----
+ 0100 = 4
+ ```
  	   - 5 | 4
- 	   - 5 ^ 4 
+ ```
+ 0101
+ 0100
+ -----
+ 0101 = 5
+ ```
+	   - 5 ^ 4 
+ ```
+ 0101
+ 0100
+ -----
+ 0001 = 5
+ ```	   
  	   - 25 & 11
- 	   - 5 << 2
- 	   - 15 | 7
- 	   - 12 >> 2
+ ```
+11001
+01011
+ -----
+01001  = 9
+ ```
+	   - 5 << 2
+  ```
+ 000101 = 5
+ 010100 = 5 << 2 = 20
+ ```
+ 	- 15 | 7
+  ```
+ 000101 = 5
+ 010100 = 5 << 2 = 20
+ ```
+	- 12 >> 2
+  ```
+ 1100 = 12
+ 0011 = 12 >> 2 = 3
+ ```
  	   - 11 ^ 7
-
+  ```
+ 1011
+ 0111
+ ------
+ 1100 = 12
+ ```
    2. Do the following math with the binary numbers and the decimal numbers. Show your work.
  	   - 10 + 5
  	   - 10 - 5 (Hint: take the two's complement of 5, and add 10 + (-5) to get the answer)
