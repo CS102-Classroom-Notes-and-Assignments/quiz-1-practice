@@ -70,7 +70,7 @@ int main()
     printf("__\n", f);
 
     double d = 4.5;
-    printf("__\n", castResult);
+    printf("__\n", d);
     
     return 0;
 }
