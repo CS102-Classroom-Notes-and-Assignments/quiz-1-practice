@@ -18,7 +18,7 @@ c file file extension: .c
 ```
 4. How do you compile a c file? What does compiling a c file mean?
 ```
-gcc <file_name>, example: gcc hello.txt
+gcc <file_name>, example: gcc hello.c
 Compiling converts the source code file (the .c file written in the c programming language) into an executable file. The executable file contains machine code (a sequence of 1s and 0s) that can control the CPU of the computer. C is a compiled language, not interpreted, so the source code must be compiled in order for them to be executed. 
 ```
 5. What is Github used for? What is version-control?
