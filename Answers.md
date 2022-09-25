@@ -127,63 +127,99 @@ int main()
   
   # Lesson-3
   1. What is the output of the following operations? Write out the numbers in binary, do the operations, then convert the final result back to decimal. Show your work.
-  	  - 5 & 4 
+ 
+ 5 & 4 
  ```
  0101
  0100
  -----
  0100 = 4
  ```
- 	   - 5 | 4
+ 5 | 4
  ```
  0101
  0100
  -----
  0101 = 5
  ```
-	   - 5 ^ 4 
+ 5 ^ 4 
  ```
  0101
  0100
  -----
  0001 = 5
  ```	   
- 	   - 25 & 11
+ 25 & 11
  ```
 11001
 01011
  -----
 01001  = 9
  ```
-	   - 5 << 2
+ 5 << 2
   ```
  000101 = 5
  010100 = 5 << 2 = 20
  ```
- 	- 15 | 7
+15 | 7
   ```
  000101 = 5
  010100 = 5 << 2 = 20
  ```
-	- 12 >> 2
+ 12 >> 2
   ```
  1100 = 12
  0011 = 12 >> 2 = 3
  ```
- 	   - 11 ^ 7
+ 11 ^ 7
   ```
  1011
  0111
  ------
  1100 = 12
  ```
+ 
    2. Do the following math with the binary numbers and the decimal numbers. Show your work.
- 	   - 10 + 5
- 	   - 10 - 5 (Hint: take the two's complement of 5, and add 10 + (-5) to get the answer)
- 	   - 12 + 3
-	   - 12 - 3
-	   - 25 + 1
-
+10 + 5
+```
+1010 =10
++
+0101 = 5
+----
+1111 = 15
+```
+10 - 5 (Hint: take the two's complement of 5, and add 10 + (-5) to get the answer)
+```
+1010 = 10
++
+1011 = -5 (two's complement of 5 = (ones complement of 5) + 1 = 1010 + 1 = 1011)
+----
+0101 = 5
+```
+12 + 3
+```
+1100 =12
++
+0011 = 3
+----
+1111 = 15
+```
+12 - 3
+```
+1100 = 12
++
+1101 = -3 (two's complement of 3 = (ones complement of 3) + 1 = 1100 + 1 = 1101)
+----
+1001 = 9
+```
+25 + 1
+```
+11001 =25
++
+00001 = 1
+----
+11010 = 26
+```
 
    3. What is the difference between a prefix and a postfix operator? What does the code below print out?
    ```c
