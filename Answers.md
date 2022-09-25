@@ -13,8 +13,8 @@ ls hello
 ```vim```
 3. What is the file extension for a bash script file? a c file?
 ```
-bash script - .sh
-c file - .c
+bash script file extension: .sh
+c file file extension: .c
 ```
 4. How do you compile a c file? What does compiling a c file mean?
 ```
