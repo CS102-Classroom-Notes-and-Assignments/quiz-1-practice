@@ -1,4 +1,6 @@
 # Practice Quiz
+Answers are in the file above Answers.md
+
 ## Lesson-1
 
 1. What are the unix commands to create a folder "hello", enter the folder, create a file "hello.txt", then list the contents of the folder "hello"?
