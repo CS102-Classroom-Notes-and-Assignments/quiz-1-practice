@@ -6,6 +6,7 @@
 mkdir hello
 cd hello
 touch hello.txt
+cd ..
 ls hello
 ```
 2. What is the unix command to edit a file?
